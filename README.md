@@ -33,4 +33,4 @@ A seguir, os passos seguidos a fim de concluir os objetivos estabelecidos anteri
 
 ### Informações complementares
 1. O arquivo em python a ser executado, encontra-se na pasta **_"/base/"_**;
-2. A página inicial do relatório, que será criada a partir da execução do código na pasta **_/output/_**, foi gerada em html e tem o nome **_'index.htm'_**
+2. A página inicial do relatório, que será criada a partir da execução do código na pasta **_"/output/"_**, foi gerada em html e tem o nome **_'index.htm'_**
